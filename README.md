@@ -1,1 +1,2 @@
-# notizapp-backend
+# Notizapp
+Die Notizapp ist eine einfache Webanwendung zum Erstellen und Verwalten von Notizen, entwickelt im Modul Webtechnologien an der HTW Berlin. Nutzer können ihre Notizen mit Titel und Text in einer Übersicht ansehen und neue Notizen anlegen. Das Backend ist mit Spring Boot umgesetzt, das Frontend mit Vue.js.
